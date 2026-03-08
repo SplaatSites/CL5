@@ -1,2 +1,2 @@
 # CL5
-An early compatibility layer for Windows.
+An early PlayStation 5 compatibility layer for Windows.
